@@ -1,0 +1,13 @@
+package day_03_hellloworld_variables;
+
+public class Triangle {
+	public static void main(String[] args) {
+		System.out.println("    *");
+		System.out.println("   * *");
+		System.out.println("  *   *");
+		System.out.println(" *     *");
+		System.out.println("*********");
+	
+	}
+
+}

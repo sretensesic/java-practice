@@ -47,7 +47,7 @@ public class Split {
 	for(char ch : charsArray) {
 		System.out.println(ch);
 	}
-	
+	int[] statt = new int[4];
 	
 	
 	}

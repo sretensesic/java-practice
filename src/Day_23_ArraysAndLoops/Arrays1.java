@@ -1,4 +1,4 @@
-package Day_23_ArraysAndLoops;
+package day_23_ArraysAndLoops;
 
 public class Arrays1 {
 	public static void main(String[] args) {

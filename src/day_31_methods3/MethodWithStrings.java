@@ -21,7 +21,7 @@ public class MethodWithStrings {
 	}
 
 	public static void googleSearchResult(String result) {
-		String [] str = result.split(" ");
+		String[] str = result.split(" ");
 		String count = str[1].replace(",", "");
 		String seconds = str[3].replace("(", "");
 		

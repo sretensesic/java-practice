@@ -1,4 +1,4 @@
-package Day_23_ArraysAndLoops;
+package day_23_ArraysAndLoops;
 
 public class PrintNumberWithLoop {
 	public static void main(String[] args) {

@@ -15,7 +15,10 @@ public class VarArgs {
 			printWords("red", "blue", "yellow"); // 3 values
 			printWords("grey"); // one value
 			printWords(); // empty. so array will be empty array. 
-			
+					
+					
+					
+					
 			System.out.println(sum(3, 5 , 10));
 			System.out.println(sum(87564, 545, 879844, 55,33232,54545432,2344,2345,533,1234,523));
 			int budget = 200;
